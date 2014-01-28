@@ -1,0 +1,74 @@
+#acd_admin_table {
+}
+
+#acd_admin_table_right {
+	padding:15px;
+	background-color: #ddf;
+}
+
+#acd_admin_table .acd_admin_table-field {
+	background-color:#fff;
+	padding:10px;
+	margin-bottom:10px;
+}
+
+#acd_admin_table label {
+	cursor: auto;
+	display:block;
+	margin:0 10px 8px 0;
+	clear:both;
+	width:10em;
+	font-weight:bold;
+}
+
+#acd_admin_table p.acd_desc {
+	margin:8px 20px 15px 10px;
+	font-size:.9em;
+	font-style:italic;
+}
+
+#acd_admin_table input {
+	display:block;
+	clear:both;
+}
+
+#acd_admin_list-table {
+	background-color: none;
+	padding:0;
+	border:none;
+	margin:15px 0 15px 0;
+    border-spacing:0;
+    border-collapse: collapse;
+}
+
+#acd_admin_list-table tr, #acd_admin_list-table td{
+	border:none;
+	padding:0;
+	margin:0;
+}
+
+#acd_admin_list-table td {
+	border-top:1px solid #666;
+	margin:0;
+	padding:4px 7px 4px 10px;
+}
+
+#acd_admin_list-table th {
+	background-color:#abf;
+	padding:4px 7px 4px 10px;
+}
+
+#acd_admin_list-table td.value {
+	background-color:#eef;
+}
+
+#acd_admin_list-table th.del {
+	background-color:#f55;
+}
+
+#acd_admin_list-table td.del input {
+}
+
+#acd_admin_list-table td.del {
+	background-color:#fee;
+}
